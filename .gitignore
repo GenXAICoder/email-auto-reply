@@ -3,4 +3,5 @@ __pycache__
 .env
 token.json
 credentials.json
-machine_learning/dataset
+classifier.joblib
+vectorizer.joblib
